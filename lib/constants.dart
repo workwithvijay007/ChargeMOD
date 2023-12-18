@@ -5,7 +5,6 @@ String projectId = '6494141957d29409895704d2';
 String version = '1.0.0';
 String appVersion = '1.0.0';
 String countryCode = '+91';
-// String enteredPhoneNumber = '8074597687';
 String phoneNumber = '';
 String? otp;
 String? refreshToken;
